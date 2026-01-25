@@ -1,56 +1,57 @@
 # 🚀 Rodrigo Labs | Software Architecture & Applied AI
 
-Bem-vindo ao meu laboratório técnico. Este é o espaço onde consolido **25 anos de experiência em engenharia de software** aplicados à construção de **arquiteturas robustas, soluções de alta performance e uso pragmático de IA aplicada ao negócio**.
+Bem-vindo ao **Rodrigo Labs** — um laboratório técnico pessoal dedicado a **arquitetura de software, engenharia de sistemas distribuídos e aplicação pragmática de Inteligência Artificial** em contextos corporativos reais.
+
+Este espaço concentra estudos, experimentos técnicos, utilitários e projetos de referência, sempre com foco em **qualidade arquitetural, sustentabilidade técnica e impacto real no negócio**.
 
 ---
 
-## 🏛️ Sobre Mim
-Atuo como **Software Architect & Tech Lead**, com foco na evolução do ecossistema **.NET** e na aplicação de arquitetura moderna em contextos corporativos reais. Minha jornada atravessa desde sistemas legados até **microserviços, mensageria e integração de IA em fluxos de negócio existentes**.
+## 🏛️ Sobre
 
-- **Senioridade:** 25 anos de atuação, com evolução consistente de Dev Júnior a Arquiteto de Software.
-- **Foco Atual:** Arquiteturas resilientes, Clean Architecture, DDD, sistemas distribuídos e **IA aplicada como engenharia de solução**, não como substituição de decisão técnica.
-- **Mindset:** Equilibrar profundidade técnica (hands-on) com clareza estratégica, garantindo impacto real e sustentável para o negócio.
+Atuo como **Tech Lead & Software Architect**, com foco no ecossistema **.NET** e na evolução de sistemas corporativos — desde ambientes legados até arquiteturas modernas baseadas em **microserviços, mensageria e processamento assíncrono**.
+
+Minha atuação é orientada por alguns princípios claros:
+
+- **Arquitetura como base**, não como burocracia  
+- **IA aplicada como engenharia de solução**, não como substituição de decisão técnica  
+- **Hands-on com visão estratégica**, equilibrando código, arquitetura e negócio  
+- **Soluções sustentáveis**, pensadas para produção, escala e operação real  
+
+Este repositório reflete essa abordagem técnica e pragmática.
 
 ---
 
-## 🛠️ Stack Técnica (Contexto Real de Produção)
+## 🛠️ Stack Técnica (Contexto de Produção)
 
 | Categoria | Tecnologias |
 | :--- | :--- |
-| **Backend** | C#, .NET (Core / 5–10), ASP.NET Core, Web APIs, Microservices |
+| **Backend** | C#, .NET (Core / 5–10), ASP.NET Core, Web APIs |
 | **Arquitetura** | Clean Architecture, DDD, CQRS, SOLID, Design Patterns |
 | **Mensageria & Assíncrono** | Azure Service Bus, RabbitMQ, Background Jobs |
-| **Dados & Performance** | SQL Server, Redis, Memory Cache, Observabilidade (App Insights) |
-| **IA Aplicada** | OpenAI API (ChatGPT), D-ID, ElevenLabs – integração e orquestração |
+| **Dados & Performance** | SQL Server, Redis, Memory Cache, Observabilidade |
+| **IA Aplicada** | OpenAI API (ChatGPT), D-ID, ElevenLabs (integração e orquestração) |
 | **DevOps & Cloud** | Azure DevOps (CI/CD), GitHub Actions, Automação de Pipelines |
 
 ---
 
-## 🔬 O que você encontra aqui (Rodrigo Labs)
+## 🔬 O que você encontra aqui
 
-Esta organização é dedicada a **projetos públicos, estudos técnicos e ferramentas reutilizáveis**, com foco em engenharia de software madura e aplicação prática de arquitetura.
+Esta organização é voltada a **conteúdo técnico reutilizável e estudos aplicados**, incluindo:
 
-- **Ferramentas para Devs:** Utilitários, scripts e bibliotecas voltadas à produtividade e padronização.
-- **AI Blueprints:** Exemplos reais de **IA integrada a sistemas existentes**, incluindo controle de fluxo, contexto, governança e regras externas.
-- **Architecture Patterns:** Repositórios demonstrando a aplicação prática de Clean Architecture, mensageria e sistemas distribuídos.
+- **Ferramentas e utilitários** para padronização, produtividade e apoio ao desenvolvimento
+- **Blueprints de arquitetura**, demonstrando aplicações práticas de Clean Architecture, mensageria e sistemas distribuídos
+- **Experimentos com IA aplicada**, focados em integração controlada, orquestração de fluxos, contexto e governança
+- **Provas de conceito (POCs)** e estudos técnicos extraídos de problemas reais
 
----
-
-## 🚀 Projetos em Destaque (Pessoal & Experimental)
-
-Algumas iniciativas que representam a aplicação prática desse laboratório:
-
-- **VoxFlow:** Plataforma de comunicação ativa via **WhatsApp e Voz (URA)**, com mensageria, controle de janelas de conversa e **IA conversacional integrada de forma governada**.
-- **Avatar AI:** Solução autoral para **geração de vídeo e áudio realista a partir de texto ou imagem**, explorando desafios reais de infraestrutura, custo de GPU e decisões arquiteturais pragmáticas.
+Os repositórios são adicionados e evoluídos de forma incremental.
 
 ---
 
-## 📫 Vamos Conversar?
-
-Se você busca um **Arquiteto de Software Sênior** para consultoria, liderança técnica ou projetos de alta complexidade:
+## 📫 Contato
 
 🌍 **Portfólio:** https://rodrigodefreitasoliveira.connectsolutions.com.br  
 📍 **Localização:** Betim, MG – Brasil  
 
 ---
-*"Software de qualidade não é apenas código que funciona — é patrimônio sustentável para o negócio."*
+
+> *Software de qualidade não é apenas código que funciona — é arquitetura bem pensada, decisões responsáveis e valor sustentável para o negócio.*
