@@ -1,57 +1,52 @@
 # 🚀 Rodrigo Labs | Software Architecture & Applied AI
 
-Bem-vindo ao **Rodrigo Labs** — um laboratório técnico pessoal dedicado a **arquitetura de software, engenharia de sistemas distribuídos e aplicação pragmática de Inteligência Artificial** em contextos corporativos reais.
-
-Este espaço concentra estudos, experimentos técnicos, utilitários e projetos de referência, sempre com foco em **qualidade arquitetural, sustentabilidade técnica e impacto real no negócio**.
+Bem-vindo ao meu laboratório técnico. Aqui é o espaço onde transformo 25 anos de experiência em engenharia de software em soluções de alta performance, ferramentas de produtividade e experimentos com IA Aplicada.
 
 ---
 
-## 🏛️ Sobre
-
-Atuo como **Tech Lead & Software Architect**, com foco no ecossistema **.NET** e na evolução de sistemas corporativos — desde ambientes legados até arquiteturas modernas baseadas em **microserviços, mensageria e processamento assíncrono**.
-
-Minha atuação é orientada por alguns princípios claros:
-
-- **Arquitetura como base**, não como burocracia  
-- **IA aplicada como engenharia de solução**, não como substituição de decisão técnica  
-- **Hands-on com visão estratégica**, equilibrando código, arquitetura e negócio  
-- **Soluções sustentáveis**, pensadas para produção, escala e operação real  
-
-Este repositório reflete essa abordagem técnica e pragmática.
+### 🏛️ Sobre Mim
+Atuo como **Software Architect & Tech Lead**, focando na evolução da plataforma .NET. Minha jornada atravessa desde os primórdios do desenvolvimento corporativo até as arquiteturas modernas de microserviços e Inteligência Artificial.
+,
+- **Senioridade:** 25 anos de estrada, evoluindo de Dev Júnior a Arquiteto Estratégico.
+- **Foco Atual:** Arquiteturas resilientes, Clean Architecture, DDD e integração de LLMs em fluxos de negócio.
+- **Mindset:** Equilibrar profundidade técnica (hands-on) com clareza estratégica para resultados reais de negócio.
 
 ---
 
-## 🛠️ Stack Técnica (Contexto de Produção)
+### 🛠️ Tech Stack de Autoridade
 
 | Categoria | Tecnologias |
 | :--- | :--- |
-| **Backend** | C#, .NET (Core / 5–10), ASP.NET Core, Web APIs |
+| **Backend** | .NET 8/9, C#, ASP.NET Core, Web APIs, Microservices |
 | **Arquitetura** | Clean Architecture, DDD, CQRS, SOLID, Design Patterns |
-| **Mensageria & Assíncrono** | Azure Service Bus, RabbitMQ, Background Jobs |
-| **Dados & Performance** | SQL Server, Redis, Memory Cache, Observabilidade |
-| **IA Aplicada** | OpenAI API (ChatGPT), D-ID, ElevenLabs (integração e orquestração) |
-| **DevOps & Cloud** | Azure DevOps (CI/CD), GitHub Actions, Automação de Pipelines |
+| **Mensageria/Async** | Azure Service Bus, RabbitMQ, Background Jobs |
+| **Data & Cache** | SQL Server, Redis, Memory Cache, Observabilidade (App Insights) |
+| **Applied AI** | OpenAI API, D-ID, ElevenLabs, Automação de Conteúdo |
+| **DevOps/Cloud** | Azure DevOps, CI/CD Pipelines, GitHub Actions |
 
 ---
 
-## 🔬 O que você encontra aqui
+### 🔬 O que você encontra aqui (Rodrigo Labs)
+Este perfil é dedicado a compartilhar ferramentas que facilitam o dia a dia do desenvolvedor e provas de conceito (PoCs) de arquitetura:
 
-Esta organização é voltada a **conteúdo técnico reutilizável e estudos aplicados**, incluindo:
-
-- **Ferramentas e utilitários** para padronização, produtividade e apoio ao desenvolvimento
-- **Blueprints de arquitetura**, demonstrando aplicações práticas de Clean Architecture, mensageria e sistemas distribuídos
-- **Experimentos com IA aplicada**, focados em integração controlada, orquestração de fluxos, contexto e governança
-- **Provas de conceito (POCs)** e estudos técnicos extraídos de problemas reais
-
-Os repositórios são adicionados e evoluídos de forma incremental.
+* **Ferramentas para Devs:** Scripts e bibliotecas para produtividade e padronização.
+* **AI Blueprints:** Exemplos práticos de integração de IA em sistemas corporativos.
+* **Architecture Patterns:** Repositórios demonstrando a aplicação de Clean Architecture e padrões modernos.
 
 ---
 
-## 📫 Contato
-
-🌍 **Portfólio:** https://rodrigodefreitasoliveira.connectsolutions.com.br  
-📍 **Localização:** Betim, MG – Brasil  
+### 🚀 Projetos em Destaque (Comercial & Pessoal)
+Além do laboratório, estou à frente de iniciativas como:
+* **Voxflow:** Plataforma de comunicação direta (WhatsApp/URA) focada em conversão e automação.
+* **Avatar AI:** Solução de vídeo e áudio realista integrada com IA generativa.
 
 ---
 
-> *Software de qualidade não é apenas código que funciona — é arquitetura bem pensada, decisões responsáveis e valor sustentável para o negócio.*
+### 📫 Vamos Conversar?
+Se você busca um Arquiteto Sênior para consultoria, liderança técnica ou projetos de alta complexidade:
+
+🌍 **Portfólio:** [rodrigodefreitasoliveira.connectsolutions.com.br](http://rodrigodefreitasoliveira.connectsolutions.com.br)  
+📍 **Localização:** Betim, MG - Brasil  
+
+---
+*"Software de qualidade não é apenas código que funciona, é patrimônio sustentável para o negócio."*
