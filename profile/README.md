@@ -40,9 +40,6 @@ Este GitHub complementa meu site profissional, concentrando **implementações t
 - **Site profissional (vitrine):**  
   👉 https://rodrigodefreitasoliveira.connectsolutions.com.br
 
-- **GitHub público (curadoria técnica):**  
-  👉 https://github.com/connect-solutions-projects
-
 📍 **Localização:** Betim, MG — Brasil
 
 ---
