@@ -1,52 +1,51 @@
-# 🚀 Rodrigo Labs | Software Architecture & Applied AI
+# 🚀 Rodrigo | Public Technical Portfolio (.NET & Software Architecture)
 
-Bem-vindo ao meu laboratório técnico. Aqui é o espaço onde transformo 25 anos de experiência em engenharia de software em soluções de alta performance, ferramentas de produtividade e experimentos com IA Aplicada.
+Este GitHub reúne **projetos públicos selecionados** que representam minha atuação técnica como desenvolvedor e arquiteto de software ao longo de mais de 25 anos em sistemas corporativos.
 
----
-
-### 🏛️ Sobre Mim
-Atuo como **Software Architect & Tech Lead**, focando na evolução da plataforma .NET. Minha jornada atravessa desde os primórdios do desenvolvimento corporativo até as arquiteturas modernas de microserviços e Inteligência Artificial.
-,
-- **Senioridade:** 25 anos de estrada, evoluindo de Dev Júnior a Arquiteto Estratégico.
-- **Foco Atual:** Arquiteturas resilientes, Clean Architecture, DDD e integração de LLMs em fluxos de negócio.
-- **Mindset:** Equilibrar profundidade técnica (hands-on) com clareza estratégica para resultados reais de negócio.
+Aqui não há estudos acadêmicos nem exemplos artificiais.  
+Tudo o que está publicado faz sentido como **referência técnica real**.
 
 ---
 
-### 🛠️ Tech Stack de Autoridade
+## 🧠 Sobre
+Sou **Software Architect & Tech Lead**, com experiência sólida em desenvolvimento corporativo, atuando de forma prática tanto em código quanto em decisões arquiteturais.
 
-| Categoria | Tecnologias |
-| :--- | :--- |
-| **Backend** | .NET 8/9, C#, ASP.NET Core, Web APIs, Microservices |
-| **Arquitetura** | Clean Architecture, DDD, CQRS, SOLID, Design Patterns |
-| **Mensageria/Async** | Azure Service Bus, RabbitMQ, Background Jobs |
-| **Data & Cache** | SQL Server, Redis, Memory Cache, Observabilidade (App Insights) |
-| **Applied AI** | OpenAI API, D-ID, ElevenLabs, Automação de Conteúdo |
-| **DevOps/Cloud** | Azure DevOps, CI/CD Pipelines, GitHub Actions |
+Minha trajetória envolve sistemas críticos, integrações complexas, mensageria, APIs e arquiteturas distribuídas — sempre com foco em **manutenibilidade, performance e impacto no negócio**.
+
+Este GitHub complementa meu site profissional, concentrando **implementações técnicas** e não a narrativa completa da carreira.
 
 ---
 
-### 🔬 O que você encontra aqui (Rodrigo Labs)
-Este perfil é dedicado a compartilhar ferramentas que facilitam o dia a dia do desenvolvedor e provas de conceito (PoCs) de arquitetura:
-
-* **Ferramentas para Devs:** Scripts e bibliotecas para produtividade e padronização.
-* **AI Blueprints:** Exemplos práticos de integração de IA em sistemas corporativos.
-* **Architecture Patterns:** Repositórios demonstrando a aplicação de Clean Architecture e padrões modernos.
-
----
-
-### 🚀 Projetos em Destaque (Comercial & Pessoal)
-Além do laboratório, estou à frente de iniciativas como:
-* **Voxflow:** Plataforma de comunicação direta (WhatsApp/URA) focada em conversão e automação.
-* **Avatar AI:** Solução de vídeo e áudio realista integrada com IA generativa.
+## 🛠️ Stack Técnica Principal
+- **Backend:** .NET 8/9, C#, ASP.NET Core, APIs REST
+- **Arquitetura:** Clean Architecture, DDD, CQRS, SOLID, Design Patterns
+- **Assíncrono & Mensageria:** RabbitMQ, Azure Service Bus, Background Jobs
+- **Dados & Cache:** SQL Server, Redis, Observabilidade
+- **IA Aplicada:** Integração de LLMs e automação de fluxos
+- **DevOps:** Azure DevOps, CI/CD, GitHub Actions
 
 ---
 
-### 📫 Vamos Conversar?
-Se você busca um Arquiteto Sênior para consultoria, liderança técnica ou projetos de alta complexidade:
+## 🔍 O que você encontra aqui
+- Ferramentas de produtividade para desenvolvedores
+- Exemplos de arquitetura aplicados a cenários reais
+- Código pensado para legibilidade, evolução e uso em ambientes de produção
 
-🌍 **Portfólio:** [rodrigodefreitasoliveira.connectsolutions.com.br](http://rodrigodefreitasoliveira.connectsolutions.com.br)  
-📍 **Localização:** Betim, MG - Brasil  
+> Nem tudo que desenvolvi ao longo da carreira está aqui —  
+> apenas o que faz sentido como **exposição técnica pública**.
 
 ---
-*"Software de qualidade não é apenas código que funciona, é patrimônio sustentável para o negócio."*
+
+## 🌐 Contexto Profissional
+- **Site profissional (vitrine):**  
+  👉 https://rodrigodefreitasoliveira.connectsolutions.com.br
+
+- **GitHub público (curadoria técnica):**  
+  👉 https://github.com/connect-solutions-projects
+
+📍 **Localização:** Betim, MG — Brasil
+
+---
+
+_"Software de qualidade não é apenas código que funciona hoje,  
+é estrutura que continua saudável amanhã."_
