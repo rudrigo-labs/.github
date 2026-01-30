@@ -1,35 +1,47 @@
-# 🚀 Rodrigo | Public Technical Portfolio (.NET & Software Architecture)
+# 🚀 Rodrigo de Freitas Oliveira  
+### Public Technical Portfolio (.NET & Software Architecture)
 
-Este GitHub reúne **projetos públicos selecionados** que representam minha atuação técnica como desenvolvedor e arquiteto de software ao longo de mais de 25 anos em sistemas corporativos.
+Este GitHub reúne **projetos técnicos públicos selecionados**, mantidos como
+**mostruário de soluções reais**, arquiteturas e ferramentas construídas ao longo
+de mais de 25 anos de atuação em sistemas corporativos.
 
-Aqui não há estudos acadêmicos nem exemplos artificiais.  
-Tudo o que está publicado faz sentido como **referência técnica real**.
+Não se trata de um repositório educacional nem de exemplos artificiais.  
+Tudo o que está aqui existe porque resolve problemas concretos
+e pode servir como **referência técnica prática**.
 
 ---
 
 ## 🧠 Sobre
-Sou **Software Architect & Tech Lead**, com experiência sólida em desenvolvimento corporativo, atuando de forma prática tanto em código quanto em decisões arquiteturais.
 
-Minha trajetória envolve sistemas críticos, integrações complexas, mensageria, APIs e arquiteturas distribuídas — sempre com foco em **manutenibilidade, performance e impacto no negócio**.
+Atuo como **Software Architect & Tech Lead**, com experiência sólida em ambientes corporativos,
+atuando de forma prática tanto no código quanto em decisões arquiteturais.
 
-Este GitHub complementa meu site profissional, concentrando **implementações técnicas** e não a narrativa completa da carreira.
+Minha trajetória envolve sistemas críticos, integrações complexas, mensageria,
+APIs e arquiteturas distribuídas — sempre com foco em **manutenibilidade,
+performance e impacto real no negócio**.
+
+Este GitHub complementa meu site profissional, concentrando **implementações técnicas**
+em vez da narrativa completa da carreira.
 
 ---
 
-## 🛠️ Stack Técnica Principal
-- **Backend:** .NET 8/9, C#, ASP.NET Core, APIs REST
-- **Arquitetura:** Clean Architecture, DDD, CQRS, SOLID, Design Patterns
-- **Assíncrono & Mensageria:** RabbitMQ, Azure Service Bus, Background Jobs
-- **Dados & Cache:** SQL Server, Redis, Observabilidade
-- **IA Aplicada:** Integração de LLMs e automação de fluxos
-- **DevOps:** Azure DevOps, CI/CD, GitHub Actions
+## 🛠️ Stack Técnica (uso recorrente)
+
+- **Backend:** .NET (8+), C#, ASP.NET Core, APIs REST
+- **Arquitetura:** Clean Architecture, DDD pragmático, CQRS, SOLID, Design Patterns
+- **Assíncrono & Mensageria:** RabbitMQ, Azure Service Bus, processamento em background
+- **Dados & Cache:** SQL Server, Redis, observabilidade e diagnóstico
+- **IA Aplicada:** Integração de LLMs, automação de fluxos e decisões assistidas
+- **DevOps:** Azure DevOps, GitHub Actions, pipelines CI/CD
 
 ---
 
 ## 🔍 O que você encontra aqui
+
 - Ferramentas de produtividade para desenvolvedores
-- Exemplos de arquitetura aplicados a cenários reais
-- Código pensado para legibilidade, evolução e uso em ambientes de produção
+- Aplicações e CLIs com arquitetura intencional
+- Exemplos de decisões técnicas aplicadas a cenários reais
+- Código pensado para **leitura, evolução e manutenção a longo prazo**
 
 > Nem tudo que desenvolvi ao longo da carreira está aqui —  
 > apenas o que faz sentido como **exposição técnica pública**.
@@ -37,7 +49,8 @@ Este GitHub complementa meu site profissional, concentrando **implementações t
 ---
 
 ## 🌐 Contexto Profissional
-- **Site profissional (vitrine):**  
+
+- **Site profissional:**  
   👉 https://rodrigodefreitasoliveira.connectsolutions.com.br
 
 📍 **Localização:** Betim, MG — Brasil
