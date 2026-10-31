@@ -1,61 +1,41 @@
-# 🚀 Rodrigo de Freitas Oliveira  
-### Public Technical Portfolio (.NET & Software Architecture)
+# Rodrigo Labs | Desenvolvedor Sênior .NET
 
-Este GitHub reúne **projetos técnicos públicos selecionados**, mantidos como
-**mostruário de soluções reais**, arquiteturas e ferramentas construídas ao longo
-de mais de 25 anos de atuação em sistemas corporativos.
-
-Não se trata de um repositório educacional nem de exemplos artificiais.  
-Tudo o que está aqui existe porque resolve problemas concretos
-e pode servir como **referência técnica prática**.
+Bem-vindo ao meu laboratório técnico. Aqui compartilho ferramentas, arquiteturas de referência e experimentos que nascem de 25 anos de experiência com desenvolvimento de software no ecossistema .NET.
 
 ---
 
-## 🧠 Sobre
+### Sobre mim
 
-Atuo como **Software Architect & Tech Lead**, com experiência sólida em ambientes corporativos,
-atuando de forma prática tanto no código quanto em decisões arquiteturais.
+Sou desenvolvedor sênior backend, com cerca de 25 anos de experiência em C# e .NET. Comecei como desenvolvedor júnior e atuei em sistemas corporativos de vários setores: saúde, indústria, setor público, e-commerce e mercado imobiliário.
 
-Minha trajetória envolve sistemas críticos, integrações complexas, mensageria,
-APIs e arquiteturas distribuídas — sempre com foco em **manutenibilidade,
-performance e impacto real no negócio**.
-
-Este GitHub complementa meu site profissional, concentrando **implementações técnicas**
-em vez da narrativa completa da carreira.
+- **Foco:** APIs REST, integrações, mensageria e processamento assíncrono em ambientes de alta disponibilidade.
+- **Arquitetura:** Clean Architecture, DDD e CQRS, com camadas bem definidas e regras de dependência claras.
+- **Produção:** performance sob carga, cache, diagnóstico de falhas e estabilidade depois do deploy.
+- **IA:** integrações com APIs de IA (ChatGPT e Gemini) e uso de ferramentas como Claude Code, Codex, Copilot, Gemini e Cursor como apoio ao desenvolvimento, com decisões técnicas e partes críticas sob responsabilidade humana.
 
 ---
 
-## 🛠️ Stack Técnica (uso recorrente)
+### Stack
 
-- **Backend:** .NET (8+), C#, ASP.NET Core, APIs REST
-- **Arquitetura:** Clean Architecture, DDD pragmático, CQRS, SOLID, Design Patterns
-- **Assíncrono & Mensageria:** RabbitMQ, Azure Service Bus, processamento em background
-- **Dados & Cache:** SQL Server, Redis, observabilidade e diagnóstico
-- **IA Aplicada:** Integração de LLMs, automação de fluxos e decisões assistidas
-- **DevOps:** Azure DevOps, GitHub Actions, pipelines CI/CD
-
----
-
-## 🔍 O que você encontra aqui
-
-- Ferramentas de produtividade para desenvolvedores
-- Aplicações e CLIs com arquitetura intencional
-- Exemplos de decisões técnicas aplicadas a cenários reais
-- Código pensado para **leitura, evolução e manutenção a longo prazo**
-
-> Nem tudo que desenvolvi ao longo da carreira está aqui —  
-> apenas o que faz sentido como **exposição técnica pública**.
+| Categoria | Tecnologias |
+| :--- | :--- |
+| **Backend** | C#, .NET, ASP.NET Core, Web API |
+| **Arquitetura** | Clean Architecture, DDD, CQRS, SOLID, Design Patterns |
+| **Mensageria e assíncrono** | Azure Service Bus, RabbitMQ, Hangfire, Background Services |
+| **Dados e cache** | SQL Server, PostgreSQL, Redis, Entity Framework Core, Application Insights |
+| **Integrações e IA** | WhatsApp Business API, Twilio, OpenAI API, Gemini, D-ID, ElevenLabs |
+| **DevOps** | Azure DevOps, CI/CD, GitHub Actions, Docker |
 
 ---
 
-## 🌐 Contexto Profissional
+### Contato
 
-- **Site profissional:**  
-  👉 https://rodrigodefreitasoliveira.connectsolutions.com.br
+Estou aberto a oportunidades como Desenvolvedor Sênior .NET e a projetos de backend.
 
-📍 **Localização:** Betim, MG — Brasil
+- **Portfólio:** [rodrigo.volltex.com.br](https://rodrigo.volltex.com.br)
+- **LinkedIn:** [rodrigo-de-freitas-oliveira](https://www.linkedin.com/in/rodrigo-de-freitas-oliveira)
+- **Localização:** Betim, MG, Brasil
 
 ---
 
-_"Software de qualidade não é apenas código que funciona hoje,  
-é estrutura que continua saudável amanhã."_
+*"Software de qualidade não é apenas código que funciona, é patrimônio sustentável para o negócio."*
